@@ -1,0 +1,2 @@
+# C-ng
+bình thường
